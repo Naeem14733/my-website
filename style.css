@@ -1,0 +1,190 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+/* NavBar */
+
+.navbar-nav .nav-link {
+  padding: 0;
+  margin: 0;
+  padding-left: 10px;
+}
+.nav-item {
+  padding: 5px 5px 0 0;
+}
+.navbar-brand {
+  margin: 0px 10px 0;
+  font-size: 2rem;
+  color: #d4e8f2;
+}
+.nav {
+  background-color: #147fb2;
+}
+.nav-link {
+  color: #d4e8f2;
+}
+/* Welcome */
+.welcome-content {
+  height: 100vh;
+}
+.welcome-title {
+  font-family: "Montserrat-Black";
+  color: #d4e8f2;
+  margin: 20% auto 0 15%;
+  font-size: 1.5rem;
+}
+.welcome-text {
+  font-family: "Montserrat-Bold";
+  color: #147fb2;
+  margin: 0 auto 0 25%;
+  font-size: 3rem;
+}
+
+/* About-Us */
+
+#about-us {
+  background-color: #147fb2;
+  padding: 10px 10px;
+  height: 650px;
+}
+.about-heading {
+  text-align: center;
+  padding: 70px 100px 50px;
+  color: #d4e8f2;
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.about-content {
+  text-align: center;
+  color: #d4e8f2;
+  font-family: "Montserrat-Black";
+  font-size: 20px;
+}
+
+/* Our Product */
+
+.product-heading {
+  padding: 70px 50px 50px;
+  font-family: "Montserrat-Bold";
+  color: #147fb2;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+}
+.card-deck {
+  padding-bottom: 50px;
+  margin: 0;
+}
+.card-body {
+  text-align: center;
+}
+.card-deck .card {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+/* Why Us */
+
+#whyUs {
+  background-color: #147fb2;
+}
+.why-heading {
+  padding: 10px 50px 50px;
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #d4e8f2;
+}
+.why-us {
+  text-align: center;
+  color: #d4e8f2;
+  padding-top: 70px;
+  font-size: 1.5rem;
+  font-family: "Montserrat-black";
+}
+.icon {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+.row-why {
+  width: 100%;
+  text-align: center;
+}
+.icon-heading {
+  color: #d4e8f2;
+  font-family: "Montserrat-Black";
+  font-size: 20px;
+  padding-top: 5px;
+}
+.icon-text {
+  text-align: center;
+  margin-left: 50px;
+  padding-bottom: 40px;
+  color: #d4e8f2;
+  font-family: "Montserrat-Black";
+}
+
+/* Contact */
+
+.col-4 {
+  padding: 0;
+  margin: 0;
+}
+.contact-row {
+  text-align: left;
+  margin: 15px;
+}
+.contact-icon {
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul a:link {
+  text-decoration: none;
+}
+ul li {
+  margin: 10px;
+  margin-left: 0;
+}
+a {
+  color: #8bcdee;
+}
+.follow-icon {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.contact-heading {
+  font-family: "Montserrat-Bold";
+  color: #147fb2;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+.follow-heading {
+  color: #147fb2;
+  font-family: "Montserrat-Black";
+}
+.contact-text {
+  color: #147fb2;
+  font-family: "Montserrat-Black";
+}
+hr {
+  margin: 0;
+}
+.copyright {
+  margin: 5px auto 5px 5px;
+  font-family: "Montserrat-Black";
+}
+.copyright {
+  font-family: "Montserrat-Black";
+  color: #147fb2;
+  text-align: center;
+}
